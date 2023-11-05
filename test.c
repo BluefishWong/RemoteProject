@@ -1,1 +1,1 @@
-int main();
+hello world;
